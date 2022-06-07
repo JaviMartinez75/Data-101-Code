@@ -1,2 +1,2 @@
-# Regression Methods Code
-R assignments from Regression Methods
+# Data 101 Code
+R assignments from Data 101
